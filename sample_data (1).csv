@@ -1,0 +1,5 @@
+CustomerID,Name,Age,Email,PurchaseAmount
+101,Alice Johnson,29.0,alice.j@example.com,250.75
+102,Bob Smith,34.0,bob.smith@example.com,120.0
+103,Charlie Brown,,charlie.b@example.com,310.5
+104,Diana Prince,42.0,diana.p@example.com,
